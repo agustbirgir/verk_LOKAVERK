@@ -5,4 +5,4 @@ hér er mynd yfir hvað ég notaði fyrir verkefnið
 
 hér er [kóðin](https://github.com/agustbirgir/verk_lokaverk/blob/master/lokaverk.ino) fyrir verkefni[myndbandið]
 
-hér er [myndbandið]
+hér er [myndbandið](https://github.com/agustbirgir/verk_lokaverk/blob/master/IMG_248780485.MOV)
